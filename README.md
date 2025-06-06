@@ -5,7 +5,7 @@ Improvements:
 
 GOALS Domingo:
 - Terminar myFunction (A)
-- Manejar toda la logica del LOGIN (L)
+- Manejar toda la logica del LOGIN (L) ✅
 - Hacer XML de publicar post (L)
 - Subir foto (A)
 
