@@ -15,3 +15,5 @@ myFunction{
 2. USe JSON.address and convert it to latitude and longitude
 3. Use latitude and longitude as an input to google maps api
 }
+-ReceiptApi.kt, ReceiptUploader.kt para q funcione el receipt parser
+-GeocodingApi.kt, GeocodingResponse.kt para q funcione google maps restaurant location
